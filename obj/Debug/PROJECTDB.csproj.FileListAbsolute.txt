@@ -1,0 +1,60 @@
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\bin\Debug\PROJECTDB.exe.config
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\bin\Debug\PROJECTDB.exe
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\bin\Debug\PROJECTDB.pdb
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.csprojAssemblyReference.cache
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Guardian.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Parents.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Properties.Resources.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Sibling_and_Emergency_Information.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.csproj.GenerateResource.cache
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.csproj.CoreCompileInputs.cache
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.exe
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.pdb
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Student.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Form1jhdsd.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.mainpage.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.startpage.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.StudentAttendance.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.Voucher.resources
+C:\Users\ridak\Downloads\UNI\database\PROJECT\PROJECTDB\obj\Debug\PROJECTDB.teacherattendance.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\bin\Debug\PROJECTDB.exe.config
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\bin\Debug\PROJECTDB.exe
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\bin\Debug\PROJECTDB.pdb
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.csprojAssemblyReference.cache
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Form1jhdsd.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.mainpage.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.startpage.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Student.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Guardian.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Properties.Resources.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Sibling_and_Emergency_Information.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.StudentAttendance.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.teacherattendance.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Voucher.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.csproj.GenerateResource.cache
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.csproj.CoreCompileInputs.cache
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.exe
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.pdb
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.selectStudentForVoucher.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.student_details.resources
+C:\Users\ridak\OneDrive\Desktop\PROJECTDB\obj\Debug\PROJECTDB.Faculty.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\bin\Debug\PROJECTDB.exe.config
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\bin\Debug\PROJECTDB.exe
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\bin\Debug\PROJECTDB.pdb
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.csprojAssemblyReference.cache
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Faculty.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Form1jhdsd.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.mainpage.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.selectStudentForVoucher.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.startpage.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.student_details.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Student.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Guardian.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Properties.Resources.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Sibling_and_Emergency_Information.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.StudentAttendance.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.teacherattendance.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.Voucher.resources
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.csproj.GenerateResource.cache
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.exe
+C:\Users\aiman junaid\Desktop\Sem 3\sem3\DB\rida_maheen_aiman\PROJECTDB\obj\Debug\PROJECTDB.pdb

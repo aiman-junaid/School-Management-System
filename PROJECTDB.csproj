@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFBC50C7-78B2-4592-8E18-096C8FF75798}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROJECTDB</RootNamespace>
+    <AssemblyName>PROJECTDB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBConnections.cs" />
+    <Compile Include="Faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty.Designer.cs">
+      <DependentUpon>Faculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1jhdsd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1jhdsd.Designer.cs">
+      <DependentUpon>Form1jhdsd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainpage.Designer.cs">
+      <DependentUpon>mainpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectStudentForVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectStudentForVoucher.Designer.cs">
+      <DependentUpon>selectStudentForVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startpage.Designer.cs">
+      <DependentUpon>startpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student details.Designer.cs">
+      <DependentUpon>student details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guardian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guardian.Designer.cs">
+      <DependentUpon>Guardian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sibling and Emergency Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sibling and Emergency Information.Designer.cs">
+      <DependentUpon>Sibling and Emergency Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentAttendance.Designer.cs">
+      <DependentUpon>StudentAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacherattendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacherattendance.Designer.cs">
+      <DependentUpon>teacherattendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voucher.Designer.cs">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Faculty.resx">
+      <DependentUpon>Faculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1jhdsd.resx">
+      <DependentUpon>Form1jhdsd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainpage.resx">
+      <DependentUpon>mainpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectStudentForVoucher.resx">
+      <DependentUpon>selectStudentForVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startpage.resx">
+      <DependentUpon>startpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student details.resx">
+      <DependentUpon>student details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guardian.resx">
+      <DependentUpon>Guardian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sibling and Emergency Information.resx">
+      <DependentUpon>Sibling and Emergency Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentAttendance.resx">
+      <DependentUpon>StudentAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacherattendance.resx">
+      <DependentUpon>teacherattendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voucher.resx">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesG13CC74D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\h.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5509_-_Girl_Reading-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\holographic-iridescent-aesthetic-background-wall-paint-decoration-backdrop-color-pop-design_1962-1383.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookss.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-pink-aesthetic-background-of-light-pink-aesthetic-large-of-light-pink-aesthetic-outside-home-decorations-for-christmas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-school-child-cartoon-clip-art-children-learn-5a916f53504120.8373148515194806593287.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5700134104989696.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bags.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1fb4a75fd833808e06f3aad189301088.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaron-burden-1zR3WNSTnvY-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admission-detail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teacher_PNG32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3COpjuK4LE_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fees.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Faculty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\children-png-clipart-11553357544cygieuttnb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\73-733970_summer-vacation-dates-boy-and-girl-student-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41450bff1c32f3270ba8507f06f01974.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student-attendance-icon-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4c0b426d7f84128c2ecf8d6f17702d8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\184-1841702_students-clipart-images-of-students.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\young-woman-teacher-front-chalkboard_38747-164.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joanna-kosinska-1_CMoFsPfso-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4235142-background-powerpoint.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thin-gray-back-button-md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-return-button-png-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doodle-Button-back-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doodle-Button-Continue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgbin-note-paper-1t8Ta6grKsq8YhyHQ36JSPz2w.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best-52-notebook-backgrounds-on-hipwallpaper-notebook-backgrounds-throughout-school-notebook-paper-background-tumblr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White-back-to-school-background-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4cb1c5e010ada2514d0e445fb1b2c7c2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\School-Border-Transparent-Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\School-Border-Transparent-Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\board-3402310_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112470162-stock-vector-vector-illustration-of-happy-children.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\read-a-book-2841691_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteboard-3205371_1920.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelli-tungay-2LJ4rqK2qfU-unsplash %281%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
